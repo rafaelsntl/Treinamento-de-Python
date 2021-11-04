@@ -7,7 +7,7 @@ UFCG), que tem como objetivo principal, durante a sua execução, desenvolver
 habilidades relacionadas a linguagem de programação Python, com foco em
 aplicações para engenheiros e para cientistas.
 
-Todo conteúdo produzido neste notebook foi adaptado por Rafael dos Santos Lima e por Tâmara Ruth Dantas dos Santos
+Todo conteúdo produzido neste notebook foi adaptado por Rafael dos Santos Lima e por Tâmara Ruth Dantas dos Santos.
 
 ---
 
