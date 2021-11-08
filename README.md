@@ -1,5 +1,7 @@
 # Treinamento de Python
 
+![Treinamento de Python](picture_python.png)
+
 O Treinamento de Python é um projeto desenvolvido pelo Laboratório de
 Instrumentação Eletrônica e Controle (LIEC) e pelo Programa de Educação Tutorial
 de Engenharia Elétrica da Universidade Federal de Campina Grande (PET Elétrica
